@@ -1,0 +1,32 @@
+*{
+    background: rgba(0, 0, 0, 0) url(../img/bg.jpg);
+    background-size: cover;
+    
+    }
+    .flightschedule{
+     font-size: 20px;
+    color: white;
+    cursor: pointer;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin-top: 120px;
+    }
+    input{
+        border: 2px solid orange;
+        font-size: 100%;
+        text-align: center;
+        color: white;
+        border-radius: 10px;
+        cursor: pointer;
+        font-family: 'Ubuntu', sans-serif;
+    }
+    .ttun{
+        color: black;
+        background: orange;
+        border: 2px solid gray;
+        padding: 6px 10px;
+        margin: 7px 3px;
+        border-radius: 10px;
+        font-size: 100%;
+        cursor: pointer;
+        font-family: 'Ubuntu', sans-serif;
+    }
